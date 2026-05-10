@@ -6,17 +6,21 @@ Sou estudante de Ciência de Dados e atuo profissionalmente com Inteligência de
 
 Atualmente curso Ciência de Dados, aprofundando conhecimentos em análise de dados, estatística, modelagem analítica e fundamentos de computação. Paralelamente, venho desenvolvendo projetos e estudos práticos que envolvem organização de dados, exploração analítica e construção de soluções baseadas em dados.
 
-💡 O que me motiva nos dados
+💡 O que mais me interessa na área
 
-Tenho interesse especial em entender padrões, comportamentos e relações escondidas nos dados. Gosto do processo de transformar dados brutos em análises estruturadas que ajudem a explicar o que está acontecendo e apoiem decisões mais informadas.
+Gosto especialmente de entender padrões, tendências e comportamentos escondidos nos dados.
 
-Algumas áreas que venho explorando e estudando com mais profundidade:
+Mais do que construir dashboards, me interessa compreender o impacto que os indicadores têm nas decisões do negócio e como os dados podem ajudar áreas estratégicas a enxergarem oportunidades, riscos e melhorias de forma mais clara.
 
-• Análise exploratória de dados (EDA)
-• Modelagem analítica e estatística aplicada
-• Estruturação de métricas e indicadores de performance
-• Visualização e comunicação de dados
-• Automação e organização de processos analíticos
+Tenho bastante interesse em:
+
+Inteligência de Negócios (BI),
+Analytics,
+análise de performance,
+comportamento de vendas,
+métricas estratégicas,
+automação analítica,
+e ciência de dados aplicada ao negócio.
 
 💻 Ferramentas e tecnologias que utilizo
 
@@ -37,6 +41,6 @@ n8n
 
 🚀 Objetivo profissional
 
-Meu objetivo é evoluir cada vez mais na área de dados, aprofundando conhecimentos em análise, modelagem e ciência de dados aplicada ao negócio. Busco desenvolver projetos que explorem dados de forma crítica e estruturada, conectando raciocínio analítico, estatística e tecnologia para gerar insights e apoiar decisões.
+Meu objetivo é evoluir continuamente na área de Dados, unindo análise, estratégia e tecnologia para desenvolver soluções que gerem impacto real no negócio.
 
-Este repositório reúne projetos, estudos e experimentos que fazem parte da minha jornada de aprendizado em dados.
+Este repositório reúne projetos, estudos e análises que fazem parte da minha trajetória de aprendizado e da minha evolução profissional em Dados, Analytics e Inteligência de Negócios.
